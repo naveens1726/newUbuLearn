@@ -5,5 +5,13 @@ sample tutorial
 1st ex
 sample tutorial
 # newUbuLearn
+
+
+C
+
 1st ex
-sample tutorial
+B
+
+
+dgg
+dgsample tutorial
