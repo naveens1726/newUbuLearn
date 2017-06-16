@@ -5,13 +5,6 @@ sample tutorial
 1st ex
 sample tutorial
 # newUbuLearn
+sample tutorial
 
-
-C
-
-1st ex
-B
-
-
-dgg
-dgsample tutorial
+//corrected the modifications
